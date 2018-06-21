@@ -1,0 +1,98 @@
+09:55:28,026 ¸ê°T    [org.jboss.modules] JBoss Modules version 1.1.1.GA
+09:55:30,041 INFO  [org.jboss.msc] JBoss MSC version 1.0.2.GA
+09:55:30,102 INFO  [org.jboss.as] JBAS015899: JBoss AS 7.1.0.Final "Thunder" starting
+09:55:30,107 DEBUG [org.jboss.as.config] Configured system properties:
+	awt.toolkit = sun.awt.windows.WToolkit
+	file.encoding = MS950
+	file.encoding.pkg = sun.io
+	file.separator = \
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\jboss-modules.jar
+	java.class.version = 51.0
+	java.endorsed.dirs = C:\Program Files\Java\jdk1.7.0_79\jre\lib\endorsed
+	java.ext.dirs = C:\Program Files\Java\jdk1.7.0_79\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+	java.home = C:\Program Files\Java\jdk1.7.0_79\jre
+	java.io.tmpdir = C:\Users\nick\AppData\Local\Temp\
+	java.library.path = C:\Program Files\Java\jdk1.7.0_79\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;%JAVA_HOME\bin;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Users\nick\Desktop\ffmpeg-20180524-7c333dc-win64-static\bin;C:\Program Files\nodejs\;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby2.3.3\bin;C:\Ruby23-x64\bin;C:\Ruby21-x64\bin;C:\Users\nick\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.7.0_79\\bin;C:\AppServ\Apache24\bin;C:\AppServ\php5;C:\AppServ\MySQL\bin;C:\Users\nick\Desktop\ffmpeg-20180524-7c333dc-win64-static\bin;C:\Users\nick\AppData\Roaming\npm;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 1.7.0_79-b15
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 1.7
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = http://java.oracle.com/
+	java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+	java.version = 1.7.0_79
+	java.vm.info = mixed mode
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 1.7
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 24.79-b02
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	javax.xml.datatype.DatatypeFactory = __redirected.__DatatypeFactory
+	javax.xml.parsers.DocumentBuilderFactory = __redirected.__DocumentBuilderFactory
+	javax.xml.parsers.SAXParserFactory = __redirected.__SAXParserFactory
+	javax.xml.stream.XMLEventFactory = __redirected.__XMLEventFactory
+	javax.xml.stream.XMLInputFactory = __redirected.__XMLInputFactory
+	javax.xml.stream.XMLOutputFactory = __redirected.__XMLOutputFactory
+	javax.xml.transform.TransformerFactory = __redirected.__TransformerFactory
+	javax.xml.validation.SchemaFactory:http://www.w3.org/2001/XMLSchema = __redirected.__SchemaFactory
+	javax.xml.xpath.XPathFactory:http://java.sun.com/jaxp/xpath/dom = __redirected.__XPathFactory
+	jboss.home.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final
+	jboss.host.name = desktop-pmc7eib
+	jboss.modules.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\modules
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = desktop-pmc7eib
+	jboss.qualified.host.name = desktop-pmc7eib
+	jboss.server.base.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone
+	jboss.server.config.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone\configuration
+	jboss.server.data.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone\data
+	jboss.server.default.config = standalone.xml
+	jboss.server.deploy.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone\data\content
+	jboss.server.log.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone\log
+	jboss.server.name = desktop-pmc7eib
+	jboss.server.temp.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone\tmp
+	line.separator = 
+
+	logging.configuration = file:C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone/configuration/logging.properties
+	module.path = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\modules
+	org.jboss.boot.log.file = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone\log\boot.log
+	org.jboss.resolver.warning = true
+	org.xml.sax.driver = __redirected.__XMLReaderFactory
+	os.arch = amd64
+	os.name = Windows 8.1
+	os.version = 6.3
+	path.separator = ;
+	program.name = standalone.bat
+	sun.arch.data.model = 64
+	sun.boot.class.path = C:\Program Files\Java\jdk1.7.0_79\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_79\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_79\jre\classes
+	sun.boot.library.path = C:\Program Files\Java\jdk1.7.0_79\jre\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\jboss-modules.jar -mp C:\Users\nick\Desktop\jboss-as-7.1.0.Final\modules -jaxpmodule javax.xml.jaxp-provider org.jboss.as.standalone -Djboss.home.dir=C:\Users\nick\Desktop\jboss-as-7.1.0.Final
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = MS950
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	sun.rmi.dgc.client.gcInterval = 3600000
+	sun.rmi.dgc.server.gcInterval = 3600000
+	user.country = TW
+	user.dir = C:\Users\nick\Desktop\jboss-as-7.1.0.Final\bin
+	user.home = C:\Users\nick
+	user.language = zh
+	user.name = nick
+	user.script = 
+	user.timezone = Asia/Taipei
+	user.variant = 
+09:55:30,147 DEBUG [org.jboss.as.config] VM Arguments: -XX:+TieredCompilation -Dprogram.name=standalone.bat -Xms64M -Xmx512M -XX:MaxPermSize=256M -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -Djava.net.preferIPv4Stack=true -Dorg.jboss.resolver.warning=true -Djboss.modules.system.pkgs=org.jboss.byteman -Djboss.server.default.config=standalone.xml -Dorg.jboss.boot.log.file=C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone\log\boot.log -Dlogging.configuration=file:C:\Users\nick\Desktop\jboss-as-7.1.0.Final\standalone/configuration/logging.properties 
+09:55:37,539 INFO  [org.jboss.as.server] JBAS015888: Creating http management service using socket-binding (management-http)
+09:55:37,652 INFO  [org.xnio] XNIO Version 3.0.3.GA
+09:55:37,788 INFO  [org.xnio.nio] XNIO NIO Implementation Version 3.0.3.GA
+09:55:37,813 INFO  [org.jboss.as.logging] JBAS011502: Removing bootstrap log handlers
